@@ -1,0 +1,2 @@
+curl -H "Authorization: 563492ad6f91700001000001a62ba74b91fe48528bc000b80f62d821" \
+  "https://api.pexels.com/v1/search?query=people"
